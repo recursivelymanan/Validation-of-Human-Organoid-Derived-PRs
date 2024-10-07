@@ -1,1 +1,21 @@
-Retinal degeneration (RD) is a leading cause of vision impairment and blindness worldwide. Diseases which cause RD, including glaucoma, retinitis pigmentosa (RP) and age-related macular degeneration (AMD) are characterized by dysfunction and/or loss of key retinal neurons. Studying these human diseases in model organisms is useful but often approaches a limit at which the model organism does not sufficiently capture the human context. Many groups are utilizing in vitro methods to study the human retina, the most prominent being human induced-pluripotent stem cell (iPSC) derived neurons and iPSC-derived 3D retinal organoids (rORGs). A key first step to studying diseases like AMD and RP is establishing accurate in vitro models that can recapitulate the complexity of the retina and its many cell types. To address this need, I explored transcriptomic patterns in rORGs focusing on photoreceptors (PRs). I found that the rORG-derived PRs (O-PRs) exhibited a PR-like identity with both rod and cone markers detected. Importantly, I also compared these in vitro O-PRs with in vivo datasets, and found that they share similarities in their transcriptomic profiles. This work is intended to serve as a resource for scientists seeking to perform similar analyses on retinal datasets as well as cell types beyond the nervous system. Toward this goal, I have documented all the code used to generate results in a publicly available repository with guides on how to perform the analysis regardless of prior bioinformatics experience.
+Retinal degeneration (RD) is a leading cause of vision impairment and blindness 
+worldwide. Diseases which cause RD, including glaucoma, retinitis pigmentosa 
+(RP) and age-related macular degeneration (AMD) are characterized by 
+dysfunction and/or loss of key retinal neurons. Studying these human diseases 
+in model organisms is useful but often approaches a limit at which the model 
+organism does not sufficiently capture the human context. Many groups are 
+utilizing in vitro methods to study the human retina, the most prominent being 
+human induced-pluripotent stem cell (iPSC) derived neurons and iPSC-derived 3D 
+retinal organoids (rORGs). A key first step to studying diseases like AMD and 
+RP is establishing accurate in vitro models that can recapitulate the 
+complexity of the retina and its many cell types. To address this need, I 
+explored transcriptomic patterns in rORGs focusing on photoreceptors (PRs). I 
+found that the rORG-derived PRs (O-PRs) exhibited a PR-like identity with both 
+rod and cone markers detected. Importantly, I also compared these in vitro 
+O-PRs with in vivo datasets, and found that they share similarities in their 
+transcriptomic profiles. This work is intended to serve as a resource for 
+scientists seeking to perform similar analyses on retinal datasets as well as 
+cell types beyond the nervous system. Toward this goal, I have documented all 
+the code used to generate results in a publicly available repository with 
+guides on how to perform the analysis regardless of prior bioinformatics 
+experience.
