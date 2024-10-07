@@ -1,6 +1,9 @@
 # Validation of Human Organoid-Derived PRs
 
 Repository containing the thesis work for I completed for my M.S. at UC San Diego while I was working in the Wahlin Lab.
+My thesis work revolved around using single-cell RNA sequencing output from PIPseq to assess the validity of human photoreceptors (PRs) derived from retinal organoids. I primarily use ```R``` with ```Seurat``` through the 
+course of my analyses, as well as ```Python``` with ```PyTorch``` and ```scvi-tools``` to conduct some analyses with ML models. In addition to the data analysis, I conducted processing of the raw sequencing output through a local Linux instance. I also led hands-on experiments for this research, including nucleic acid extractions and library preparation. 
+
 
 ## Embargo
 
